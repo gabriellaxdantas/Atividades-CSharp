@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\bin\Debug\net7.0\questao04.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\bin\Debug\net7.0\questao04.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\bin\Debug\net7.0\questao04.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\bin\Debug\net7.0\questao04.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\bin\Debug\net7.0\questao04.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\refint\questao04.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\questao04.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Atividade 7 - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\questao04\obj\Debug\net7.0\ref\questao04.dll
