@@ -1,0 +1,18 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\bin\Debug\Atividade 04.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\bin\Debug\Atividade 04.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\bin\Debug\Atividade 04.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.csproj.SuggestedBindingRedirects.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.Form1.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade 04.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioHexagono.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioQuadrado.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioCirculo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioTriangulo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioRetangulo.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioOctogono.resources
+C:\Users\gabri\OneDrive\Área de Trabalho\Laboratorio - POO\pco-si-2023-01-p3-poo-lab-gabriellaxdantas\com\gabriella\exercicio01\classes\Atividade 04\Atividade 04\obj\Debug\Atividade_04.FormularioPentagono.resources
