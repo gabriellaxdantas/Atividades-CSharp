@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUsuario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Usuario>
+    <Nome>gabriella dantas</Nome>
+    <Email>gabi@gmail.com</Email>
+    <Senha>gabi</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>gabriella dantas fandim</Nome>
+    <Email>gabriella@gmail.com</Email>
+    <Senha>122</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>rafaella</Nome>
+    <Email>rafaella@gmail.com</Email>
+    <Senha>122455</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>juliano</Nome>
+    <Email>juliano123@gmail.com</Email>
+    <Senha>abcdref</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>paulo</Nome>
+    <Email>pauloandrade123@outlook.com</Email>
+    <Senha>meuCarroazul12234</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>antonia</Nome>
+    <Email>antoniasiilva@yahoo.com</Email>
+    <Senha>ABCDERFTFSWERT</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>wiliiam catalão</Nome>
+    <Email>williamdacatalao@outlook.com</Email>
+    <Senha>sdfdropguer´tgudfíov3453485</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>rafinha dantas</Nome>
+    <Email>rafinha123@gmail.com</Email>
+    <Senha>rafinhaaaaaa</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>kauan rodrigues</Nome>
+    <Email>kauanr@yahoo.com</Email>
+    <Senha>2323434r</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Luiza Costa</Nome>
+    <Email>luizacostacontatos@gmail.com</Email>
+    <Senha>1234567</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Joaquim</Nome>
+    <Email>bastosjoca@outlook.com</Email>
+    <Senha>12345</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Luciana Batistas</Nome>
+    <Email>lubatista2000@yahoo.com</Email>
+    <Senha>luciana</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Selma</Nome>
+    <Email>selma23@outlook.com</Email>
+    <Senha>dfsdfsd</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Raphael Montes</Nome>
+    <Email>monsterapha@gmail.com</Email>
+    <Senha>dffdgdsfvdfgdrfg</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>Taylor</Nome>
+    <Email>1989taylor@gmail.com</Email>
+    <Senha>23223434</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>paulo pereira</Nome>
+    <Email>ppereira@gmail.com</Email>
+    <Senha>sdfsdfdsfsdf</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>teste</Nome>
+    <Email>teste@gmail.com</Email>
+    <Senha>123</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>julia alves</Nome>
+    <Email>julia@gmai.com</Email>
+    <Senha>123</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>pedro</Nome>
+    <Email>pedro@gmail.com</Email>
+    <Senha>pedro</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>gabriella</Nome>
+    <Email>gabriella@yahoo.com</Email>
+    <Senha>123</Senha>
+  </Usuario>
+  <Usuario>
+    <Nome>teste</Nome>
+    <Email>teste12@yahoo.com</Email>
+    <Senha>abc</Senha>
+  </Usuario>
+</ArrayOfUsuario>
